@@ -1,0 +1,14 @@
+{
+    "email": {
+        "sender": "singhpunitice00@gmail.com",
+        "password": "snxt qufj pnhj vkyz",
+        "recipient": "singhpunitice00@gmail.com",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587
+    },
+    "detection": {
+        "min_contour_area": 500,
+        "threshold_sensitivity": 25,
+        "accident_frames_threshold": 5
+    }
+}
