@@ -11,4 +11,5 @@ This system detects potential accidents in videos and sends email alerts when de
 
 1. You need to change the Sender and reciver main ID
 2. You also need to chnage the App Password which is present in google 2 step Autentication
-3. 
+
+
