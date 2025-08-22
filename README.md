@@ -16,16 +16,23 @@ This system detects potential accidents in videos and sends email alerts when de
 ### Diagram
 
 GUI Interface (Tkinter)
+
        ↓
 Video Processing (OpenCV)
+
        ↓
 Motion Detection Algorithm
+
        ↓
 Accident Decision Logic
+
        ↓
 Email Notification System
+
        ↓
 SMTP Server → Recipient Email
+
+
 
 
 
