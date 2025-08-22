@@ -13,7 +13,7 @@ This system detects potential accidents in videos and sends email alerts when de
 2. You also need to chnage the App Password which is present in google 2 step Autentication
 
 
-# Diagream
+### Diagream
 
 ┌─────────────────────────────────────────────────────────────┐
 │                 Accident Detection System                   │
@@ -31,8 +31,9 @@ This system detects potential accidents in videos and sends email alerts when de
 │ Status: Ready to upload video                              │
 │ [Progress bar]                                             │
 │                                                             │
-│ Emails will be sent to: singhpunitice00@gmail.com          │
+│ Emails will be sent to: Gmail          │
 └─────────────────────────────────────────────────────────────┘
+
 
 
 
