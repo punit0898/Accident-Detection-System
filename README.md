@@ -13,26 +13,20 @@ This system detects potential accidents in videos and sends email alerts when de
 2. You also need to chnage the App Password which is present in google 2 step Autentication
 
 
-### Diagream
+### Diagram
 
-┌─────────────────────────────────────────────────────────────┐
-│                 Accident Detection System                   │
-├─────────────────────────────────────────────────────────────┤
-│ [Upload Video] button       [Selected video filename]       │
-│                                                             │
-│ [Start Detection] button    [Stop] button                  │
-│                                                             │
-│ ┌─────────────────────────────────────────────────────────┐ │
-│ │                 Video display area                      │ │
-│ │                                                         │ │
-│ │        (Your video will appear here)                    │ │
-│ └─────────────────────────────────────────────────────────┘ │
-│                                                             │
-│ Status: Ready to upload video                              │
-│ [Progress bar]                                             │
-│                                                             │
-│ Emails will be sent to: Gmail          │
-└─────────────────────────────────────────────────────────────┘
+GUI Interface (Tkinter)
+       ↓
+Video Processing (OpenCV)
+       ↓
+Motion Detection Algorithm
+       ↓
+Accident Decision Logic
+       ↓
+Email Notification System
+       ↓
+SMTP Server → Recipient Email
+
 
 
 
